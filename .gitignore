@@ -1,3 +1,5 @@
 hello
 guessing_game/target/*
 guessing_game/target/.rustc_info.json
+*.iml
+**/.idea
