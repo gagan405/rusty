@@ -4,3 +4,4 @@ guessing_game/target/.rustc_info.json
 *.iml
 **/.idea
 parent_index_tree/target/*
+lists/target/*
